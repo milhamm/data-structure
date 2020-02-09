@@ -1,3 +1,9 @@
+/* 
+     Name      : Muhammad Ilham Mubarak
+     Class     : IF-43-INT
+     SID       : 1301194276 
+*/
+
 #ifndef HELLO_H_INCLUDED
 #define HELLO_H_INCLUDED
 

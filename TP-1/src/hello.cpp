@@ -1,5 +1,11 @@
 #include "hello.h"
 
+/* 
+     Name      : Muhammad Ilham Mubarak
+     Class     : IF-43-INT
+     SID       : 1301194276 
+*/
+
 void greetings(string x, string y)
 {
     if (y.length() != 10)
@@ -46,7 +52,8 @@ void greetings(string x, string y)
             }
 
             cout << " student list in major" << endl;
-            cout << " in " << "20" << y.substr(4, 2) << endl;
+            cout << " in "
+                 << "20" << y.substr(4, 2) << endl;
         }
         else
         {
