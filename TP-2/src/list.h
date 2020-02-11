@@ -28,4 +28,7 @@ void insertFirst(List &L, address P);
 void printInfo(List L);
 void deleteFirst(List &L, address &P);
 void insertLast(List &L, address P);
+void mergeListA(List L1, List L2, List &L3);
+void mergeListB(List L1, List L2, List &L3);
+void mergeListC(List L1, List L2, List &L3);
 #endif // LIST_H_DEFINED
